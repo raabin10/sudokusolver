@@ -2,7 +2,7 @@
 
 Introduction 
 
-The Objective of the game are solve the sudoku with the help value button from 1 to 9 in the correct box of the panel and we have four functional buttons which are reset exit ,solution  and check moves ,these buttons have different functionalities which help us to solve the solve the sudoku
+The Objective of the game is to solve the sudoku with the help value button from 1 to 9 in the correct box of the panel and we have four functional buttons which are reset exit ,solution  and check moves ,these buttons have different functionalities which help us to solve the solve the sudoku
 
 Tech stack:-Java,swing
 
