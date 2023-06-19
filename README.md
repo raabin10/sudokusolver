@@ -18,6 +18,8 @@ After use the fuctional buttons checkmoves&solution
 
 
 Check on exit button
+
+
 ![image](https://github.com/raabin10/sudokusolver/assets/112077212/9c50a948-b322-4e49-8da5-fdaacafc87fd)
 
 
