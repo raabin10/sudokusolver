@@ -7,12 +7,13 @@ The Objective of the game is to solve the sudoku with the help value button from
 Tech stack:-Java,swing
 
 **Project snips**
+
 After run code
 
 ![image](https://github.com/raabin10/sudokusolver/assets/112077212/4e4658bf-b917-46de-b44f-822518d8e772)
 
 
-After use the fuctional buttons checkmoves&solution
+After use the functional buttons checkmoves&solution
 
 ![image](https://github.com/raabin10/sudokusolver/assets/112077212/a79fc87d-0ef6-4709-89be-53a3be447f45)
 
