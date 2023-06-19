@@ -8,9 +8,15 @@ Tech stack:-Java,swing
 
 **Project snips**
 After run code
+
 ![image](https://github.com/raabin10/sudokusolver/assets/112077212/4e4658bf-b917-46de-b44f-822518d8e772)
+
+
 After use the fuctional buttons checkmoves&solution
+
 ![image](https://github.com/raabin10/sudokusolver/assets/112077212/a79fc87d-0ef6-4709-89be-53a3be447f45)
+
+
 Check on exit button
 ![image](https://github.com/raabin10/sudokusolver/assets/112077212/9c50a948-b322-4e49-8da5-fdaacafc87fd)
 
