@@ -7,9 +7,14 @@ The Objective of the game is to solve the sudoku with the help value button from
 Tech stack:-Java,swing
 
 **Project snips**
-![image](https://github.com/raabin10/sudoku-puzzle/assets/112077212/2bb202d7-7a32-4a79-9b72-1a7bd22f1e0a)
-![image](https://github.com/raabin10/sudoku-puzzle/assets/112077212/3e0cd4ef-6a4f-48b8-81c9-14eb3e4d0f04)
-![image](https://github.com/raabin10/sudoku-puzzle/assets/112077212/1698a2e5-9fcf-439c-bc67-b85972aa0cd4)
+After run code
+![image](https://github.com/raabin10/sudokusolver/assets/112077212/4e4658bf-b917-46de-b44f-822518d8e772)
+After use the fuctional buttons checkmoves&solution
+![image](https://github.com/raabin10/sudokusolver/assets/112077212/a79fc87d-0ef6-4709-89be-53a3be447f45)
+Check on exit button
+![image](https://github.com/raabin10/sudokusolver/assets/112077212/9c50a948-b322-4e49-8da5-fdaacafc87fd)
+
+
 
 
 
