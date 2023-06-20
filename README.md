@@ -15,7 +15,8 @@ After run code
 
 After use the functional buttons checkmoves&solution
 
-![image](https://github.com/raabin10/sudokusolver/assets/112077212/a79fc87d-0ef6-4709-89be-53a3be447f45)
+
+![image](https://github.com/raabin10/sudokusolver/assets/112077212/66a472f3-e372-4000-8369-4bd8b6f19f67)
 
 
 Check on exit button
